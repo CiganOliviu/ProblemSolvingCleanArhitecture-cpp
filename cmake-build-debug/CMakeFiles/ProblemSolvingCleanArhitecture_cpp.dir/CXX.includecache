@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/CoreDependencies/CoreDependencies.h
+iostream
+-
+stdlib.h
+-
+assert.h
+-
+
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/DataStructures/DataStructures.h
+
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/ProblemSolution/ProblemSolution.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/CoreDependencies/CoreDependencies.h
+../DataStructures/DataStructures.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/DataStructures/DataStructures.h
+../Validations/Validations.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/Validations/Validations.h
+
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/Testing/Testing.h
+../DataStructures/DataStructures.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/DataStructures/DataStructures.h
+../Validations/Validations.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/Validations/Validations.h
+../ProblemSolution/ProblemSolution.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/ProblemSolution/ProblemSolution.h
+
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/Validations/Validations.h
+../CoreDependencies/CoreDependencies.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/CoreDependencies/CoreDependencies.h
+
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/main.cpp
+Testing/Testing.h
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/Testing/Testing.h
+

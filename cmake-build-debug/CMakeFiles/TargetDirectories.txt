@@ -1,0 +1,3 @@
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/cigan/Personal/Projects/ProblemSolvingCleanArhitecture-cpp/cmake-build-debug/CMakeFiles/ProblemSolvingCleanArhitecture_cpp.dir
